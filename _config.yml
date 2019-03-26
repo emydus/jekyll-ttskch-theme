@@ -3,11 +3,12 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
+url: https://emydus.xyz
+baseurl:
+title: emydus
+description: my blog
+avatar: /assets/img/5ba0is65hto11.jpg
+talkyard_server_url: https://comments-for-emydus-xyz.talkyard.net
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
 # language: ja
@@ -18,10 +19,10 @@ language: en
 #
 icons:
   rss: true
-  email:
-  github: ttskch
+  email: emydusu@gmail.com
+  github: emydus
   bitbucket:
-  twitter: ttskch
+  twitter: yjt_yujie
   facebook:
   google_plus:
   tumblr:
@@ -86,7 +87,7 @@ ogp:
 #
 # Plugins.
 #
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jemoji
